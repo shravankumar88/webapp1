@@ -59,4 +59,5 @@
 			<id>webapp</id>
 			<url>http://40.117.137.34:8081/repository/webapp/</url>
 		</repository>
+	</repositories>
 </project>
