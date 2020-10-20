@@ -57,8 +57,8 @@
 	<distributionManagement>
        	 
 		<repository>
-			<id>webapp</id>
-			<url>http://40.117.137.34:8081/repository/webapp/</url>
+			<id>maven-releases</id>
+			<url>http://40.117.137.34:8081/repository/maven-releases/</url>
 		</repository>
 	
     </distributionManagement>
